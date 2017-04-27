@@ -18,11 +18,11 @@ Final Paper - Using mobile technology to improve phonological awareness and lett
 
 Excel Spreadsheets Folder:
 --------------------------
-Celeration Chart.xls - contains all the raw data, all the macros used to manipulate that data, and the celeration results
+Celeration Chart.xls - contains all the raw data, all the calculations, and the resulting celeration chart.
 
-Celeration Results.xls - linked to Celeration Chart.xls, contains the results for each variable and the charts used in the Final Paper
+Celeration Results.xls - linked to Celeration Chart.xls, contains the results for each variable and the charts used for data visualization in the Final Paper.
 
-Research Papers:
+Research Materials:
 ----------------
-contains the research papers that were used in the literature review.
+contains copies of some of the research materials used for this project.
 
