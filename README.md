@@ -22,7 +22,7 @@ Proposal Amendment - contains amendments to the study proposal
 
 Methodology - contains information on study methodology
 
-Final Paper - Using mobile technology to improve phonological awareness and letter recognition in preschoolers.
+Using mobile technology to improve early literacy skills in preschoolers - final paper
 
 Excel Spreadsheets Folder:
 --------------------------
